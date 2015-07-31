@@ -1,0 +1,16 @@
+{
+	"name" : "GridsterNodeTest",
+	"version" : "0.0.1",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/jmcshane/GridsterNode.git"
+	},
+	"scripts" : {
+		"start" : "node app.js"
+	},
+	"dependencies" : {
+		"body-parser" : "^1.9.3",
+		"jade" : "^1.8.0",
+		"express" : "^4.10.4",
+	}
+}
